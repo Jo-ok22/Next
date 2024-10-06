@@ -49,7 +49,7 @@ export const Sidebar = () => {
                      height={50}/>
                 </span>
                 <span className="text-sm md:text-base font-bold">
-                    David Josias Daniel Robledo
+                    Misael Luna
                 </span>
                 </a>
            </div>
